@@ -74,9 +74,4 @@
     color: #333;
   }
   
-  @media (min-width: 576px) {
-    .contenedor{
-        display: flex;
-
-    }
-  }
+  
